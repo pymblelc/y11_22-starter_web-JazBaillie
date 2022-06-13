@@ -1,0 +1,30 @@
+body {
+  background-color: #F7B1AB;
+}
+
+hr {
+  border-color: #F7B1AB;
+  border-width: 0.5px;
+}
+
+p {
+  color: #723D46;
+  font-family: 'Overpass', sans-serif;
+  font-size: medium;
+}
+
+h1 {
+  color: #723D46;
+  font-family: 'Overpass', sans-serif;
+  font-size:31PX;
+}
+button:hover{
+  background-color: #d18781;
+}
+
+button{
+  background-color: #FFC9B5;
+  border-color: #F7B1AB;
+  box-shadow: none;
+  box-sizing: border-box;
+}
